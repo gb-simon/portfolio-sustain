@@ -14,17 +14,17 @@ safe: true
 url: http://gb-simon.github.io/
 baseurl: /sustain/
 title: Gonzalo Simon
-author: Chris Turner
+author: Gonzalo Simon
 description: Personal blog and resume
-avatar: profile.png
+avatar: profile.jpg
 email: aguilarsimon01@gmail.com
 github: gb-simon # username
 twitter: _gonzalosimon
 linkedin: Gonzalo Simon Aguilar
-stackoverflow: gonzalosimon   #e.g: users/2735833/proton1h1
+# stackoverflow: gonzalosimon   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: gonzalosimon
-google_analytics: UA-69391421-1
+# disqus: gonzalosimon
+# google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
